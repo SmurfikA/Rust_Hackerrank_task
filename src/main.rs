@@ -17,6 +17,7 @@ mod migratory_birds;
 mod bon_appetit;
 mod sock_merchant;
 mod drawing_book;
+mod apple_and_orange;
 
 fn main() {
     println!("Hello, world!");
