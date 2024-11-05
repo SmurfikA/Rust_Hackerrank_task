@@ -15,6 +15,7 @@ mod the_birthday_bar;
 mod divisible_sum_pairs;
 mod migratory_birds;
 mod bon_appetit;
+mod sock_merchant;
 
 fn main() {
     println!("Hello, world!");
