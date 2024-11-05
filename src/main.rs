@@ -13,6 +13,7 @@ mod between_two_sets;
 mod breaking_best_and_worst_records;
 mod the_birthday_bar;
 mod divisible_sum_pairs;
+mod migratory_birds;
 
 fn main() {
     println!("Hello, world!");
