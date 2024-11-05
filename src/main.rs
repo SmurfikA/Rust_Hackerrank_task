@@ -8,6 +8,7 @@ mod mini_max_sum;
 mod birthday_cake_candles;
 mod time_conversion;
 mod grading;
+mod kangaroo;
 
 fn main() {
     println!("Hello, world!");
