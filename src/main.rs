@@ -11,6 +11,7 @@ mod grading;
 mod kangaroo;
 mod between_two_sets;
 mod breaking_best_and_worst_records;
+mod the_birthday_bar;
 
 fn main() {
     println!("Hello, world!");
