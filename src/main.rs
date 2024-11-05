@@ -12,6 +12,7 @@ mod kangaroo;
 mod between_two_sets;
 mod breaking_best_and_worst_records;
 mod the_birthday_bar;
+mod divisible_sum_pairs;
 
 fn main() {
     println!("Hello, world!");
